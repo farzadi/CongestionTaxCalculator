@@ -1,0 +1,28 @@
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.deps.json
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.runtimeconfig.json
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.dll
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.pdb
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.csproj.AssemblyReference.cache
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.AssemblyInfoInputs.cache
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.AssemblyInfo.cs
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.csproj.CoreCompileInputs.cache
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.dll
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\refint\SqlRepository.dll
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.pdb
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.genruntimeconfig.cache
+D:\RiderProjects\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\ref\SqlRepository.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.deps.json
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.runtimeconfig.json
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\bin\Debug\net6.0\SqlRepository.pdb
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.csproj.AssemblyReference.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.AssemblyInfoInputs.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.AssemblyInfo.cs
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\refint\SqlRepository.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.pdb
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\SqlRepository.genruntimeconfig.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\SqlRepository\obj\Debug\net6.0\ref\SqlRepository.dll

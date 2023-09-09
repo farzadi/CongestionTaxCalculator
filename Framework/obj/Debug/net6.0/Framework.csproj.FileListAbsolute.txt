@@ -1,0 +1,34 @@
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Framework.deps.json
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Framework.dll
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Framework.pdb
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Core.dll
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\SqlRepository.dll
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Core.pdb
+D:\RiderProjects\CongestionTaxCalculator\Framework\bin\Debug\net6.0\SqlRepository.pdb
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.csproj.AssemblyReference.cache
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.AssemblyInfoInputs.cache
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.AssemblyInfo.cs
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.csproj.CoreCompileInputs.cache
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.csproj.CopyComplete
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.dll
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\refint\Framework.dll
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.pdb
+D:\RiderProjects\CongestionTaxCalculator\Framework\obj\Debug\net6.0\ref\Framework.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Framework.deps.json
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Framework.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Framework.pdb
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Core.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\SqlRepository.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\Core.pdb
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\bin\Debug\net6.0\SqlRepository.pdb
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.csproj.AssemblyReference.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.AssemblyInfoInputs.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.AssemblyInfo.cs
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.csproj.CopyComplete
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\refint\Framework.dll
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\Framework.pdb
+C:\Users\farza\Desktop\New folder (6)\CongestionTaxCalculator\Framework\obj\Debug\net6.0\ref\Framework.dll
